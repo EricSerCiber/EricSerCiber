@@ -3,7 +3,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-[Brief Introduction - Remove this afterwards]
 
 Hello! I'm Eric, and I am passionate about all things technology. I began my journey by studying computer science and later ventured into the world of telecommunications. In addition, I hold a B2 Cambridge English certificate and am currently preparing for the C1 level.
 
@@ -11,7 +10,6 @@ I have successfully completed a Specialization Course in Cybersecurity in Inform
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 I am always open to new opportunities and excited to continue learning and growing in this dynamic field.
 
