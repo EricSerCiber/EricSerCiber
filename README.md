@@ -1,4 +1,4 @@
-# Hello, I'm Eric
+# Hello, I'm Eric! </br> Computer Technician, Senior Telecommunications Technician and Cybersecurity Professional
 <a href="https://www.linkedin.com/in/eric-serrano-mar%C3%ADn-8698531a4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
