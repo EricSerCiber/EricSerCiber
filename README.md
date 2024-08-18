@@ -4,9 +4,13 @@
 </a>
 
 
-Hello! I'm Eric, and I am passionate about all things technology. I began my journey by studying computer science and later ventured into the world of telecommunications. In addition, I hold a B2 Cambridge English certificate and am currently preparing for the C1 level.
+I'm a tech enthusiast with a strong foundation in both Computer Science and Telecommunications. My passion for technology drives me to continuously explore and learn, especially in the realm of Cybersecurity.
 
-I have successfully completed a Specialization Course in Cybersecurity in Information Environments and continue to further my education while seeking job opportunities. I use platforms such as Udemy, Hack The Box, and TryHackMe to constantly enhance my cybersecurity skills and knowledge.
+🛡️ Cybersecurity Specialization: I have completed a Specialization Course in Cybersecurity in Information Environments and am committed to ongoing education in this ever-evolving field. I regularly sharpen my skills through hands-on learning platforms like Udemy, Hack The Box, and TryHackMe.
+
+🎓 Certifications: I hold a B2 Cambridge English certificate and am actively preparing to achieve C1 proficiency.
+
+🚀 Career Goals: As I continue to build on my expertise, I am seeking exciting opportunities to contribute to and grow within the tech industry
 
 
 ## Objective
