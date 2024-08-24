@@ -65,6 +65,25 @@ I'm a tech enthusiast with a strong foundation in both Computer Science and Tele
     <img src="https://img.shields.io/badge/-Wazuh-0056A6?style=for-the-badge&logo=Wazuh&logoColor=white" alt="Wazuh" />
 </div>
 
+#### Forensic Tools
+<div>
+    <img src="https://img.shields.io/badge/-Volatility-2A2A2A?style=for-the-badge&logo=Volatility&logoColor=white"         alt="Volatility" />
+    <img src="https://img.shields.io/badge/-WRR-000000?style=for-the-badge&logo=windows&logoColor=white" alt="WRR" />
+    <img src="https://img.shields.io/badge/-RegRipper-2A2A2A?style=for-the-badge&logo=linux&logoColor=white" alt="RegRipper" />
+    <img src="https://img.shields.io/badge/-ExifTool-000000?style=for-the-badge&logo=photo&logoColor=white" alt="ExifTool"/>
+    <img src="https://img.shields.io/badge/-HxD-000000?style=for-the-badge&logo=windows&logoColor=white" alt="HxD" />
+    <img src="https://img.shields.io/badge/-FTK_Imager-0056A6?style=for-the-badge&logo=windows&logoColor=white" alt="FTK Imager" />
+    <img src="https://img.shields.io/badge/-Magnet_RAM_Capture-0033A0?style=for-the-badge&logo=windows&logoColor=white" alt="Magnet RAM Capture" />
+    <img src="https://img.shields.io/badge/-DumpIt-2E2E2E?style=for-the-badge&logo=windows&logoColor=white" alt="DumpIt" />
+    <img src="https://img.shields.io/badge/-Autopsy-0033A0?style=for-the-badge&logo=windows&logoColor=white" alt="Autopsy" />
+    <img src="https://img.shields.io/badge/-LiME-004B49?style=for-the-badge&logo=linux&logoColor=white" alt="LiME" />
+    <img src="https://img.shields.io/badge/-AVML-004B49?style=for-the-badge&logo=windows&logoColor=white" alt="AVML" />
+    <img src="https://img.shields.io/badge/-Avila_Forensics-0033A0?style=for-the-badge&logo=windows&logoColor=white" alt="Avila Forensics" />
+    <img src="https://img.shields.io/badge/-Andriller-000000?style=for-the-badge&logo=android&logoColor=white" alt="Andriller" />
+
+    
+</div>
+
 ---
 
 ### 🎓 Certifications
