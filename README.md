@@ -26,7 +26,7 @@ I'm a tech enthusiast with a strong foundation in both Computer Science and Tele
 | Forensic Analysis in Cybersecurity | [Digital Forensics Projects](https://github.com/EricSerCiber/Projects/tree/main/Digital%20Forensics) |
 | Network and System Hardening       | [Network and Systems Hardening Projects](https://github.com/EricSerCiber/Projects/tree/main/Network%20and%20Systems%20Hardening) |
 | Ethical Hacking                    | [Ethical Hacking Projects](https://github.com/EricSerCiber/Projects/tree/main/Ethical%20Hacking) |
-| Cybersecurity Regulations          | [SOC Automation Lab](https://example.com)|
+| Cybersecurity Regulations          | [](https://example.com)|
 | Cybersecurity Incident Response    | [Cybersecurity Incident Response Projects](https://github.com/EricSerCiber/Projects/tree/main/Cybersecurity%20Incidents) |
 | Secure Deployment                  | [Secure Deployment Projects](https://github.com/EricSerCiber/Projects/tree/main/Secure%20Deployment) |
 
