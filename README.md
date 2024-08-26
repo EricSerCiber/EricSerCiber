@@ -106,7 +106,7 @@ I'm a tech enthusiast with a strong foundation in both Computer Science and Tele
 
 ### 🌟 Projects
 
-- **[Detection Lab](https://example.com)**: Description of the project.
+- **[Detection Lab with Wazuh](https://github.com/EricSerCiber/Projects/blob/main/Network%20and%20Systems%20Hardening/Wazuh/wazuh.md))**: Implementation and Security Testing with Wazuh
 - **[SOC Automation Project](https://example.com)**: Description of the project.
 
 ---
