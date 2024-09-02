@@ -79,8 +79,12 @@ I'm a tech enthusiast with a strong foundation in both Computer Science and Tele
     <img src="https://img.shields.io/badge/-AVML-004B49?style=for-the-badge&logo=windows&logoColor=white" alt="AVML" />
     <img src="https://img.shields.io/badge/-Avila_Forensics-0033A0?style=for-the-badge&logo=windows&logoColor=white" alt="Avila Forensics" />
     <img src="https://img.shields.io/badge/-Andriller-000000?style=for-the-badge&logo=android&logoColor=white" alt="Andriller" />
-
     
+#### Incident Response
+<div>
+    <img src="https://img.shields.io/badge/-Catalyst-005571?style=for-the-badge&logo=Elastic&logoColor=white" alt="Catalyst" /> <img src="https://img.shields.io/badge/-FIR-005571?style=for-the-badge&logo=Elastic&logoColor=white" alt="FIR" /> </div>
+</div>
+
 </div>
 
 ---
@@ -107,7 +111,8 @@ I'm a tech enthusiast with a strong foundation in both Computer Science and Tele
 
 - **[Detection Lab with Wazuh](https://github.com/EricSerCiber/Projects/blob/main/Network%20and%20Systems%20Hardening/Wazuh/wazuh.md)**: Implementation and Security Testing with Wazuh
 - **[SOC Automation Project](https://example.com)**: Description of the project.
-
+- **[ISO 27001 Compliance Implementation for a Fictitious Corporation](https://github.com/EricSerCiber/Projects/tree/main/Cybersecurity%20Regulations/Controles%20ISO%2027001)**: Design and implementation of an ISO 27001-compliant Information Security Management System (ISMS) for a simulated enterprise. The project involved conducting risk assessments, developing security policies, and establishing continuous monitoring processes.
+- **[Elastic Stack Incident Investigation and Analysis](https://github.com/EricSerCiber/Projects/tree/main/Cybersecurity%20Incidents/Elastick%20Stack)**: Comprehensive project involving the setup and use of Elastic Stack for both general data analysis and in-depth incident forensics. The project includes the implementation of Elastic Stack components to create index patterns, set up detection rules, perform log queries, and build dashboards. Additionally, it covers detailed forensic analysis to investigate a cybersecurity incident, including identifying malicious activities, tracking attacker actions, and analyzing system and network processes.
 ---
 
 ### 🎯 Objective
