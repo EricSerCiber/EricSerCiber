@@ -58,8 +58,10 @@ I'm a tech enthusiast with a strong foundation in both Computer Science and Tele
 </div>
 
 #### IDS
-<div>
+<div> 
+<a href="https://github.com/EricSerCiber/Projects/blob/main/Network%20and%20Systems%20Hardening/Wazuh/wazuh.md" target="_blank">
     <img src="https://img.shields.io/badge/-Wazuh-0056A6?style=for-the-badge&logo=Wazuh&logoColor=white" alt="Wazuh" />
+    </a>
 </div>
 
 #### Forensic Tools
