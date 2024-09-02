@@ -2,6 +2,8 @@
 
 **💻 Computer Technician | 📡 Senior Telecommunications Technician | 🛡️ Cybersecurity Professional**
 
+Welcome to my GitHub profile! Here you will find a collection of my projects and contributions in various areas of cybersecurity and IT. Explore my work in forensic analysis, ethical hacking, network hardening, and more.
+
 <a href="https://www.linkedin.com/in/eric-serrano-mar%C3%ADn-8698531a4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
