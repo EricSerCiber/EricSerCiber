@@ -49,11 +49,6 @@ I'm a tech enthusiast with a strong foundation in both Computer Science and Tele
     </a>
 </div>
 
-#### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Defender for Endpoint" />
-</div>
-
 #### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk" />
