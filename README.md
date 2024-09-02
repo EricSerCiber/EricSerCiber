@@ -41,13 +41,16 @@ I'm a tech enthusiast with a strong foundation in both Computer Science and Tele
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" alt="Suricata" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" alt="Nmap" />
-    <a href="https://github.com/EricSerCiber/Projects/blob/main/Ethical%20Hacking/Nessus/nessus.md" target="_blank">
+</div>
+
+#### Vulnerability Assessment
+
+<a href="https://github.com/EricSerCiber/Projects/blob/main/Ethical%20Hacking/Nessus/nessus.md" target="_blank">
         <img src="https://img.shields.io/badge/-Nessus-007ACC?style=for-the-badge&logo=Nessus&logoColor=white" alt="Nessus" />
     </a>
     <a href="https://github.com/EricSerCiber/Projects/blob/main/Ethical%20Hacking/OpenVAS/OpenVAS%20Metasploitable2.md" target="_blank">
         <img src="https://img.shields.io/badge/-OpenVAS-32CD32?style=for-the-badge&logo=OpenVAS&logoColor=white" alt="OpenVAS" />
     </a>
-</div>
 
 #### SIEM
 <div>
